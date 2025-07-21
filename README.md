@@ -132,4 +132,5 @@ schedule.every(12).hours.do(job)
 
 ## 👨‍💻 Автор
 Разработка: Ivan (Иван)
+
 Inst: @chll_killer
